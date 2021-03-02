@@ -1,0 +1,4 @@
+Django==3.0
+django-storages
+django-filter
+Pillow
